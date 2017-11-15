@@ -1,0 +1,21 @@
++ Added Feature
+- Remove Feature
+* Changed Feature
+
+1.0.0
+
++ Added Changelog
+* Most system messages were made more user friendly
+* Fixed reverse cards
+
+1.0.4
+
++ /Say functionality
++ /Name functionality
+* /Hackdraw was changed to /Slay
+* All hacks can be disabled entirely or only for non admins
+
+1.0.8
+
++ Exchange cards allow you to swap hands with another player.
+* Chuck Norris can insta-win (if enabled
