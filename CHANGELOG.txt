@@ -18,4 +18,4 @@
 1.0.8
 
 + Exchange cards allow you to swap hands with another player.
-* Chuck Norris can insta-win (if enabled
+* Chuck Norris can insta-win (if enabled)
