@@ -2,7 +2,7 @@
 text based Uno Like game, but with custom rules
 
 To Install:
-	Run Unum_Install.bat
+	Copy and Run Unum_Install.bat
 
 To Play:
 	Run unum_client.py
